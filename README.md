@@ -120,16 +120,6 @@ From the plot, we can clearly see that:
 
 In the next section, I’ll compare the three portfolios and attempt to explain the difference.
 
-# Difference in the three portfolios
-
-## Portfolio Analyses
-
-|     | Expected Return |     | Expected Volatility | Sharpe Ratio |
-| --- | --- |     | --- | --- |
-| Original Portfolio |     | 23.93% | 18.01% | 1.09 |
-| Minimum Volatility Portfolio |     | 18.89% | 14.37% | 1.02 |
-| Markowitz Portfolio |     | 43.14% | 20.35% | 1.91 |
-
 ## Sectorwise weights assigned in the Portfolios
 
 - As we can see, neither the minimum variance nor the Markowitz portfolio includes the Metals and Mining sector companies in the portfolio,
