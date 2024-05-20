@@ -1,7 +1,3 @@
-MS6621: Corporate Finance
-
-Assignment: Market Risk
-
 # Market Index
 
 The Index that I selected for this project is the **Nifty Commodities Index**. It is an index comprising 30 publicly listed companies on the National Stock Exchange. It is designed to reflect the behaviour and performance of the commodities segment in India. It includes sectors such as oil, petroleum products, cement, power, chemicals, sugar, metals, and mining.
